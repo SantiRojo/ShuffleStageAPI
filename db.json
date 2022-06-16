@@ -1,4 +1,5 @@
-[
+{
+    "shows": [
     {
         "artista":"Boris Brejcha",
         "precio":7200,
@@ -55,3 +56,4 @@
     }
    
 ]
+}
